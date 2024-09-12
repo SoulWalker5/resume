@@ -100,19 +100,19 @@ body {
 }
 
 .profession {
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 700;
     line-height: 24px;
-    margin-bottom: 25px;
+    margin-bottom: 14px;
 }
 
 .name {
     font-size: 45px;
     font-weight: 700;
-    line-height: 90px;
+    line-height: 70px;
 }
 
-.description {
+.summary {
     font-size: 14px;
     font-weight: 400;
     line-height: 24px;
@@ -120,7 +120,7 @@ body {
 }
 
 .info-container {
-    margin-bottom: 50px;
+    margin-bottom: 40px;
 }
 
 .about-me-title {
@@ -155,7 +155,7 @@ body {
 }
 
 .projects-container {
-    margin-bottom: 60px;
+    margin: 14px 0 20px 0;
 }
 
 .profession-title {
